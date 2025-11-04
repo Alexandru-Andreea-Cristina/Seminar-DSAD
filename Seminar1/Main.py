@@ -69,3 +69,4 @@ print(student["nume "], student.get("nota"))
 #seturi
 litere = set("analiza datelor")
 print(litere)
+
