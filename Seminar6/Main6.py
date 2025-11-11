@@ -239,6 +239,7 @@ g3= t3.groupby(by="MacroRegiune").agg(sum)
 print(g3)
 
 
+
 g1.to_csv('res/output_etnii_judet.csv')
 g2.to_csv('res/output_etnii_regiuni.csv')
 g3.to_csv('res/output_etnii_macroregiuni.csv')
