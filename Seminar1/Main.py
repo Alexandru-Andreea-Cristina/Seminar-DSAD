@@ -64,7 +64,7 @@ coordonate=tuple ((21,45))
 #dictionare
 student = {"nume": "Ana", "nota" : 10}
 student = dict({"nume": "Ana", "nota" : 10})
-print(student["nume "], student.get("nota"))
+print(student["nume"], student.get("nota"))
 
 #seturi
 litere = set("analiza datelor")
